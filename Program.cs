@@ -9,7 +9,7 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Aktivera Swagger endast i utvecklingsmiljö
+// Aktivera Swagger endast i utvecklingsmiljö.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

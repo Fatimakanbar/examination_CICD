@@ -33,3 +33,4 @@ C:\Users\fatim\CICD_inlämning\uppgiften\bin\Debug\net10.0\Swashbuckle.AspNetCor
 C:\Users\fatim\CICD_inlämning\uppgiften\obj\Debug\net10.0\uppgiften.csproj.AssemblyReference.cache
 C:\Users\fatim\CICD_inlämning\uppgiften\obj\Debug\net10.0\uppgiften.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\fatim\CICD_inlämning\uppgiften\obj\Debug\net10.0\uppgiften.csproj.Up2Date
+C:\Users\fatim\CICD_inlämning\uppgiften\obj\Debug\net10.0\uppgiften.sourcelink.json
