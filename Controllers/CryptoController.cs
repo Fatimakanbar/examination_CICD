@@ -23,10 +23,10 @@ public class CryptoController : ControllerBase
     }
 
     
-    /// Tar emot krypterad text och returnerar originaltexten
+    /// Tar emot krypterad text och returnerar originaltexten.
 
 
-    [HttpPost("test")]
+    [HttpPost("ShiftChar")]
     public IActionResult Decrypt([FromBody] string text)
     {
         var result = _cryptoService.Decrypt(text);

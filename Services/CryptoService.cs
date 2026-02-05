@@ -31,6 +31,6 @@ public class CryptoService
             return c;
 
         char offset = char.IsUpper(c) ? 'A' : 'a';
-        return (char)((c - offset + shift + 27) % 27 + offset);
+        return (char)((c - offset + shift + 26) % 27 + offset);
     }
 }
